@@ -1,2 +1,4 @@
 This is a file for git
 I added something here
+
+I have made some changes here and they are not good
